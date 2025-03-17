@@ -21,8 +21,10 @@
  
 
 ## 📫 Me contacter  
-💼 **LinkedIn** : www.linkedin.com/in/yousra-ben-slama-549752277 
-📧 **Email** : yosra.bslamaa@gmail.com
+<div> 
+  <a href="https:// www.linkedin.com/in/yousra-ben-slama-549752277 /" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:yosra.bslamaa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
 
 
