@@ -8,7 +8,7 @@
 ## 🚀 À propos de moi  
 🎓 **Formation** : BTS SIO - SISR  
 💡 **Compétences** : Administration réseau, Virtualisation, Sécurité informatique, Cloud (AWS, Azure), Scripting (Bash, PowerShell, Python)  
-🔍 **Centres d’intérêt** : Cybersécurité, Automatisation, Cloud Computing, Linux  
+🔍 **Centres d’intérêt** : Cybersécurité, Linux,Sport,Musique  
 
 ## 🔧 Technologies et Outils  
 - 🖥️ **Systèmes** : Windows Server, Linux (Debian, Ubuntu, CentOS)  
