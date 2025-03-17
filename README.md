@@ -3,7 +3,7 @@
 <!--
 # 💻 Bienvenue sur mon GitHub !
 
-👋 **Bonjour !** Je suis [Ton Nom], étudiant en **BTS SIO (Services Informatiques aux Organisations), option SISR (Solutions d’Infrastructure, Systèmes et Réseaux)**. Passionné par l’administration des systèmes et des réseaux, la cybersécurité et le cloud computing, je partage ici mes projets et mes travaux en lien avec mes études.
+👋 **Bonjour !** Je suis Ben Slama Yousra, étudiante en BTS SIO (Services Informatiques aux Organisations), option SISR (Solutions d’Infrastructure, Systèmes et Réseaux). Passionnée par l’administration des systèmes et des réseaux, la cybersécurité , je partage ici mes projets et mes travaux en lien avec mes études.
 
 ## 🚀 À propos de moi  
 🎓 **Formation** : BTS SIO - SISR  
