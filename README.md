@@ -1,16 +1,29 @@
 ## Hi there 👋
 
 <!--
-**yosra2002/yosra2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Bienvenue sur mon GitHub !
 
-Here are some ideas to get you started:
+👋 **Bonjour !** Je suis [Ton Nom], étudiant en **BTS SIO (Services Informatiques aux Organisations), option SISR (Solutions d’Infrastructure, Systèmes et Réseaux)**. Passionné par l’administration des systèmes et des réseaux, la cybersécurité et le cloud computing, je partage ici mes projets et mes travaux en lien avec mes études.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 À propos de moi  
+🎓 **Formation** : BTS SIO - SISR  
+💡 **Compétences** : Administration réseau, Virtualisation, Sécurité informatique, Cloud (AWS, Azure), Scripting (Bash, PowerShell, Python)  
+🔍 **Centres d’intérêt** : Cybersécurité, Automatisation, Cloud Computing, Linux  
+
+## 🔧 Technologies et Outils  
+- 🖥️ **Systèmes** : Windows Server, Linux (Debian, Ubuntu, CentOS)  
+- 🌐 **Réseaux** : Cisco (Packet Tracer, GNS3), Firewall, VPN, VLAN, DHCP, DNS  
+- ☁️ **Cloud** :  Azure, VirtualBox  
+- 🔐 **Sécurité** : Pare-feu, Sécurisation des services 
+- 🖊️ **Scripting** : Bash, PowerShell, Python  
+- 🔧 **Outils DevOps** : Docker
+
+ 
+
+## 📫 Me contacter  
+💼 **LinkedIn** : www.linkedin.com/in/yousra-ben-slama-549752277 
+📧 **Email** : yosra.bslamaa@gmail.com
+
+
+
 -->
